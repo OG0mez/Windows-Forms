@@ -1,0 +1,12 @@
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker-Pg.(643(1))\EmployeeAndProductionWorker-Pg.(643(1))\bin\Debug\EmployeeAndProductionWorker-Pg.(643(1)).exe.config
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker-Pg.(643(1))\EmployeeAndProductionWorker-Pg.(643(1))\bin\Debug\EmployeeAndProductionWorker-Pg.(643(1)).exe
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker-Pg.(643(1))\EmployeeAndProductionWorker-Pg.(643(1))\bin\Debug\EmployeeAndProductionWorker-Pg.(643(1)).pdb
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker-Pg.(643(1))\EmployeeAndProductionWorker-Pg.(643(1))\obj\Debug\EmployeeAndProductionWorker-Pg.(643(1)).csprojResolveAssemblyReference.cache
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker-Pg.(643(1))\EmployeeAndProductionWorker-Pg.(643(1))\obj\Debug\EmployeeAndProductionWorker_Pg._643_1__.Form1.resources
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker-Pg.(643(1))\EmployeeAndProductionWorker-Pg.(643(1))\obj\Debug\EmployeeAndProductionWorker_Pg._643_1__.Properties.Resources.resources
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker-Pg.(643(1))\EmployeeAndProductionWorker-Pg.(643(1))\obj\Debug\EmployeeAndProductionWorker-Pg.(643(1)).csproj.GenerateResource.Cache
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker-Pg.(643(1))\EmployeeAndProductionWorker-Pg.(643(1))\obj\Debug\EmployeeAndProductionWorker-Pg.(643(1)).exe
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker-Pg.(643(1))\EmployeeAndProductionWorker-Pg.(643(1))\obj\Debug\EmployeeAndProductionWorker-Pg.(643(1)).pdb
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker\EmployeeAndProductionWorker-Pg.(643(1))\bin\Debug\EmployeeAndProductionWorker-Pg.(643(1)).exe.config
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker\EmployeeAndProductionWorker-Pg.(643(1))\obj\Debug\EmployeeAndProductionWorker-Pg.(643(1)).exe
+C:\Users\Hunter\Desktop\EmployeeAndProductionWorker\EmployeeAndProductionWorker-Pg.(643(1))\obj\Debug\EmployeeAndProductionWorker-Pg.(643(1)).pdb
