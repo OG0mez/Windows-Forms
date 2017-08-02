@@ -1,0 +1,9 @@
+C:\Users\Hunter\Desktop\VS Projects\MouseBrush\MouseBrush\bin\Debug\MouseBrush.exe.config
+C:\Users\Hunter\Desktop\VS Projects\MouseBrush\MouseBrush\bin\Debug\MouseBrush.exe
+C:\Users\Hunter\Desktop\VS Projects\MouseBrush\MouseBrush\bin\Debug\MouseBrush.pdb
+C:\Users\Hunter\Desktop\VS Projects\MouseBrush\MouseBrush\obj\Debug\MouseBrush.csprojResolveAssemblyReference.cache
+C:\Users\Hunter\Desktop\VS Projects\MouseBrush\MouseBrush\obj\Debug\MouseBrush.Form1.resources
+C:\Users\Hunter\Desktop\VS Projects\MouseBrush\MouseBrush\obj\Debug\MouseBrush.Properties.Resources.resources
+C:\Users\Hunter\Desktop\VS Projects\MouseBrush\MouseBrush\obj\Debug\MouseBrush.csproj.GenerateResource.Cache
+C:\Users\Hunter\Desktop\VS Projects\MouseBrush\MouseBrush\obj\Debug\MouseBrush.exe
+C:\Users\Hunter\Desktop\VS Projects\MouseBrush\MouseBrush\obj\Debug\MouseBrush.pdb
