@@ -6,4 +6,4 @@ Uses a SQLConnection to Login to the database. From there, you can select a form
   3. FTP Connect will allow you to connect to your FTP server and make changes. 
   4. A sipmle enhanced Rich Text Editor form with all the main functions of an editor.
   
- There may be some small bugs
+ There may be some small bugs but nothing major.
