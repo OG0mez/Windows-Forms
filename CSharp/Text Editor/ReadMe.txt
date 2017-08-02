@@ -7,7 +7,7 @@ Some features shows in this program:
   - Undo, Redo
   - Draggable text to text editor control
   - Font Selection, Font Color Selection
-    - Each item in the font color drop down list has a background color according to the color in the list, along with the text over top         of it. The text color is determined by calculating the total RGB and determining if the color is a light color or dark color. It           then will set the text color to black or white, depending on the shade. 
+    - Each item in the font color drop down list has a background color according to the color in the list, along with the text over top of it. The text color is determined by calculating the total RGB and determining if the color is a light color or dark color. It then will set the text color to black or white, depending on the shade. 
   - Line and Column number tracking
   - Font Inrease, Font Decrease, Change Font Case
   - Clear All Formatting
